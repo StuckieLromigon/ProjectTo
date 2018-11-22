@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lesson6
 {
-    interface Truck
+    interface iTruck
     {
+
+        int Cargo();
+
     }
 }
